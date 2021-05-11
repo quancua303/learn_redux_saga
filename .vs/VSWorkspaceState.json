@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\action",
+    "\\src\\components\\constants",
+    "\\src\\reducer",
+    "\\src\\saga",
+    "\\src\\SagaPost"
+  ],
+  "SelectedNode": "\\src\\SagaPost\\index.js",
+  "PreviewInSolutionExplorer": false
+}
